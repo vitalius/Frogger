@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+ # $ jar cvfm f.jar ../Documents/workspace/Frogger/src/META-INF/MANIFEST.MF -C ../Documents/workspace/Frogger/bin/ . && java -jar f.jar 
+Main-Class: frogger.Main
+Class-Path: lib/jig-1.7.5.jar lib/

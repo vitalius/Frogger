@@ -1,0 +1,35 @@
+<resources>
+
+    <spritesheet>
+        <imagesrc>frogger_sprites.png</imagesrc>
+        <framesrc>frogger.xml</framesrc>
+    </spritesheet>
+
+    <audioclip>
+    	<src>jump.wav</src></audioclip><audioclip>
+    	<src>frog_die.ogg</src></audioclip><audioclip>
+    	<src>goal.ogg</src></audioclip>
+    <audioclip>
+    	<src>ambient_fx/long-horn.ogg</src></audioclip>
+    <audioclip>
+    	<src>ambient_fx/car-pass.ogg</src></audioclip><audioclip>
+    	<src>ambient_fx/siren.ogg</src></audioclip>
+    <audioclip>
+    	<src>ambient_fx/water-splash.ogg</src></audioclip>
+    
+    
+    <audioclip>
+    	<src>ambient_fx/splash.ogg</src></audioclip>
+    <audioclip>
+    	<src>ambient_fx/frog.ogg</src></audioclip>
+    <audioclip>
+    	<src>level_goal.ogg</src></audioclip>
+    <audioclip>
+    	<src>wind.ogg</src></audioclip>
+    <audioclip>
+    	<src>match.ogg</src></audioclip>
+    <audioclip>
+    	<src>bonus.ogg</src></audioclip>
+
+
+</resources>
