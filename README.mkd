@@ -1,5 +1,3 @@
-Implementation of Frogger game for a Game Design.
-
 In addition to dodging cars and jumping logs to get across the river, game has some global warming effects such as overheated pavement and wind gusts ;)
 
 ![](https://github.com/vitalius/Frogger/raw/master/screen_shot.png)
