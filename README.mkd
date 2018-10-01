@@ -28,3 +28,10 @@
 In addition to dodging cars and jumping logs to get across the river, game has some global warming effects such as overheated pavement and wind gusts ;)
 
 ![](https://github.com/vitalius/Frogger/raw/master/screen_shot.png)
+
+Game still works with Java 7
+
+Download the project (extract .zip) and change directory into the project folder, start the game with following command
+```
+  ..\java-se-7u75-ri\bin\java.exe -jar .\Frogger_1.2.jar
+```
